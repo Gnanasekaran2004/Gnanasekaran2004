@@ -38,14 +38,8 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  
-[![Gnanasekaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gnanasekaran2004&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Gnanasekaran2004)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanasekaran2004&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Gnanasekaran2004)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gnanasekaran2004&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gnanasekaran's Activity Graph" width="100%" />
 </div>
-
----
 
 ### 📫 Let's Connect!
 <div align="left">
